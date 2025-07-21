@@ -2,12 +2,12 @@ public class CarVariables {
     public static void main(String[] args) {
         String brand = "Hyundai";
         String model = "Creta";
-        int year = 2024;
+        short year = 2024;
         String color = "Blue";
         float engineCapacity = 1.5f;
         boolean isElectric = false;
         String fuelType = "Petrol";
-        int seatingCapacity = 5;
+        byte seatingCapacity = 5;
         double mileage = 17.4;
         long price = 1550000;
         String transmission = "Automatic";
