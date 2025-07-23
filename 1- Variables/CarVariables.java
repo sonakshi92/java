@@ -27,7 +27,7 @@ public class CarVariables {
         System.out.println("Fuel Type: " + fuelType);
         System.out.println("Seating Capacity: " + seatingCapacity);
         System.out.println("Mileage: " + mileage + " km/l");
-        System.out.println("Price: ₹" + price);
+        System.out.println("Price: Rs. " + price);
         System.out.println("Transmission: " + transmission);
         System.out.println("Registration Number: " + registrationNumber);
         System.out.println("Safety Rating: " + safetyRating);
